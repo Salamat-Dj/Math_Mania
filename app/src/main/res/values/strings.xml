@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Math Mania</string>
+    <string name="math_mania">Math Mania!</string>
+    <string name="addition">ADDITION</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+    <string name="hello_world">Hello World</string>
+    <string name="answeer">Enter your answer...</string>
+    <string name="true_false">True or False</string>
+    <string name="input">Input</string>
+    <string name="table">Learn Table</string>
+    <string name="back">Back</string>
+    <string name="start">Your task is to score as many points as possible.\nClick to Start</string>
+    <string name = "levelone">Solve the examples that will be displayed on the screen.\nExamples can be repeated until you score 50 points.</string>
+    <string name = "textcontinue">Continue</string>
+    <string name = "exit">Exit</string>
+    <string name = "reset">Restart</string>
+    <string name = "levelend">"Congratulations, the level is passed!"</string>
+    <string name = "levelover">"Unfortunately, you didn't score enough points :("</string>
+</resources>
